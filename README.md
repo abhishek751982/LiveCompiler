@@ -3,7 +3,7 @@
 ## Overview
 **LiveCompiler** is a multi-language remote code execution platform that enables real-time collaboration. Built with **React.js**, **Node.js**, **Express**, **Docker**, and **Socket.io**, this application allows users to write, execute, and share code seamlessly. The platform ensures secure execution, real-time updates, and optimized performance through **modular design and containerization with Docker**.
 
-![LiveCompiler](https://github.com/user-attachments/assets/0b4096ce-8c4c-4808-8724-efbcced002e4)
+![LiveCompiler](https://github.com/user-attachments/assets/6ac9a78b-bde1-4da6-920f-225a380424db)
 
 ## Features
 ✔️ **Multi-Language Support** – Execute code in multiple programming languages.  
