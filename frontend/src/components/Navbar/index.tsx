@@ -15,7 +15,7 @@ const Navbar: FC = () => {
         {/* Navbar Left */}
         <div className="flex items-center">
           <Link to="/" className="text-2xl font-bold">
-            CoExe
+            LiveCompiler
           </Link>
         </div>
         {/* Error Message */}
