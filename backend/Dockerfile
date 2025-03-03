@@ -35,6 +35,7 @@ RUN pnpm install
 # Copy the rest of the app
 COPY . .
 
+EXPOSE 4000
 # Build the TypeScript code
 RUN pnpm run build
 
